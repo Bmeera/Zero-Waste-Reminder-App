@@ -1,5 +1,4 @@
-Zero-Waste Pantry Reminder
-🥦 Zero-Waste Pantry Reminder
+🥦 Zero-Waste Pantry Reminder App
 
 A simple and practical command-line application to help users track food expiration dates and reduce household food waste. Users can add pantry items, view them, delete used items, and check which items are expiring soon — all through the terminal.
 
